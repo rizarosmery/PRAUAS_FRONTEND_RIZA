@@ -1,0 +1,17 @@
+
+      .tripzap_nav_area.prefix,
+      .hbg2 {
+        background-color: #000000;
+      }
+      .breadcumb-area,
+      .breadcumb-blog-area {
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center center;
+        background-image: url("https://wp.dreamitsolution.net/tripzap/wp-content/uploads/2024/08/breadcumb-bg1.jpg");
+        background-size: cover;
+      }
+      .single-video::before {
+        background-color: rgba(0, 0, 0, 0.3);
+      }
+    

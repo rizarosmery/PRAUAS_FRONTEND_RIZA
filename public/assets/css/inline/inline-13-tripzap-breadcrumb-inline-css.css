@@ -1,0 +1,12 @@
+
+      .logo img {
+      }
+      .logo a {
+        margin-top: 15px;
+      }
+      .mean-container .mean-bar::before {
+        content: "tripzap";
+      }
+
+      /*# sourceURL=tripzap-breadcrumb-inline-css */
+    
