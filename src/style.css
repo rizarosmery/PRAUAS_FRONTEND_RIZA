@@ -1,0 +1,7 @@
+/* Style tambahan untuk komponen React (opsional).
+   Dibiarkan minimal agar tidak mengubah tampilan website Tripzap. */
+
+#react-bootstrap-root {
+  /* mount disembunyikan; aturan ini redundan dengan inline style, aman */
+  display: none !important;
+}
